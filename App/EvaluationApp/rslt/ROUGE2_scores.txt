@@ -1,0 +1,4 @@
+0 ROUGE-2 Average_R: 0.42248 (95%-conf.int. 0.42248 - 0.42248)
+0 ROUGE-2 Average_P: 0.67702 (95%-conf.int. 0.67702 - 0.67702)
+0 ROUGE-2 Average_F: 0.52029 (95%-conf.int. 0.52029 - 0.52029)
+

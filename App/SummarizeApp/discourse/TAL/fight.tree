@@ -1,0 +1,15 @@
+(Evaluation[N][S]
+  (Condition[N][S]
+    (Contrast[S][N]
+      (Explanation[N][S]
+        _!Look . The name of the movie is Fight Club .!_
+        (Enablement[N][S]
+          (same-unit[N][N]
+            _!It 's got bareknuckle fights!_
+            _!in it .!_)
+          _!They 're violent .!_))
+      _!They 're bloody . Please do n't come out of Fight Club whining about!_)
+    _!how violent and bloody it is . Got it ? <s>!_)
+  (Contrast[S][N]
+    _!Sex and violence are two of the things people go to movies for .!_
+    _!They are n't getting enough in their own lives . <s>!_))

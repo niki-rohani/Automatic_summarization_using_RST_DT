@@ -1,0 +1,195 @@
+(Topic-Change[N][N]
+  (Evaluation[N][S]
+    (Elaboration[N][S]
+      (Elaboration[N][S]
+        (Background[N][S]
+          (Contrast[N][S]
+            _!Energetic and concrete action has been taken in Colombia during the past 60 days against the mafiosi of the drug trade , <s>!_
+            (Explanation[N][S]
+              _!but it has not been sufficiently effective , <s>!_
+              _!because , unfortunately , it came too late . <s>!_))
+          (Elaboration[N][S]
+            _!Ten years ago , the newspaper El Espectador , <s>!_
+            _!of which my brother Guillermo was editor , <s>!_))
+        (Elaboration[N][S]
+          (Enablement[N][S]
+            _!began warning of the rise of the drug mafias and of their leaders ' aspirations <s>!_
+            _!to control Colombian politics , especially the Congress . <s>!_)
+          (Elaboration[N][S]
+            (Joint[N][N]
+              (Elaboration[N][S]
+                _!Then , <s>!_
+                (Joint[N][N]
+                  (Enablement[N][S]
+                    _!when it would have been easier!_
+                    _!to resist them , <s>!_)
+                  _!nothing was done <s>!_))
+              (same-unit[N][N]
+                _!and my brother!_
+                _!was murdered by the drug mafias three years ago . <s>!_))
+            _!The most ruthless dictatorships have not censored their press more brutally than the drug mafias censor Colombia 's . <s>!_)))
+      (Background[S][N]
+        (Evaluation[N][S]
+          (Explanation[N][S]
+            _!The censorship is enforced through terrorism and assassination . <s>!_
+            (Enablement[N][S]
+              _!In the past 10 years about 50 journalists have been silenced forever ,!_
+              _!murdered . <s>!_))
+          (Elaboration[N][S]
+            _!Within the past two months a bomb exploded in the offices of the El Espectador in Bogota , <s>!_
+            _!destroying a major part of its installations and equipment . <s>!_))
+        _!And only last week the newspaper Vanguardia Liberal in the city of Bucaramanga was bombed , <s>!_))
+    (Background[S][N]
+      (Elaboration[N][S]
+        (Elaboration[N][S]
+          (same-unit[N][N]
+            _!and its installations!_
+            _!destroyed . <s>!_)
+          (Elaboration[N][S]
+            _!Journalists and their families are constantly threatened <s>!_
+            (Elaboration[N][S]
+              _!as are the newspaper distribution outlets . <s>!_
+              (Elaboration[N][S]
+                (Cause[S][N]
+                  _!Distribution centers are bombed , <s>!_
+                  _!and advertisers are intimidated . <s>!_)
+                _!Censorship is imposed by terrorism . <s>!_))))
+        (Elaboration[N][S]
+          (Evaluation[N][S]
+            (Evaluation[N][S]
+              (Evaluation[N][S]
+                _!If the Colombian media accept this new and hideous censorship <s>!_
+                _!there is little doubt <s>!_)
+              _!that the drug mafia 's terrorism someday will extend to all the newspapers <s>!_)
+            _!published in the free world . <s>!_)
+          (Elaboration[N][S]
+            (Elaboration[N][S]
+              _!The solidarity of the uncensored media world-wide against drug terrorism is the only way <s>!_
+              _!press freedom can survive . <s>!_)
+            (Elaboration[N][S]
+              _!The American people and their government also woke up too late to the menace <s>!_
+              _!drugs posed to the moral structure of their country . <s>!_))))
+      (Evaluation[N][S]
+        (Background[S][N]
+          (Enablement[N][S]
+            _!Even now , the American attack upon this tremendous problem is timid in relation!_
+            _!to the magnitude of the threat . <s>!_)
+          _!I can attest <s>!_)
+        _!that a recent Colombian visitor to the U.S. was offered drugs three times in the few blocks ' walk between Grand Central Terminal and the Waldorf Astoria Hotel in midtown Manhattan . <s>!_)))
+  (Topic-Change[N][N]
+    (Joint[N][N]
+      (Evaluation[N][S]
+        (Evaluation[N][S]
+          (Evaluation[N][S]
+            (Joint[N][N]
+              (textual-organization[N][N]
+                (Enablement[N][S]
+                  (Evaluation[N][S]
+                    (textual-organization[N][N]
+                      _!Colombia alone <s>!_
+                      _!-- its government , its people , its newspapers -- <s>!_)
+                    _!does not have the capacity <s>!_)
+                  _!to fight this battle successfully . <s>!_)
+                (Elaboration[N][S]
+                  (Elaboration[N][S]
+                    _!All drug-consuming countries must jointly decide to combat and punish the consumers and distributors of drugs . <s>!_
+                    (same-unit[N][N]
+                      _!The U.S. ,!_
+                      _!as the major drug consumer , should lead this joint effort . <s>!_))
+                  _!Reduction , if not the total cessation , of drug consumption is the requirement for victory . <s>!_))
+              (Explanation[N][S]
+                (Enablement[N][S]
+                  _!Much is being done in Colombia <s>!_
+                  _!to fight the drug cartel mafia . <s>!_)
+                (Joint[N][N]
+                  (Joint[N][N]
+                    _!Luxurious homes and ranches have been raided by the military authorities , <s>!_
+                    (same-unit[N][N]
+                      _!and sophisticated and powerful communications!_
+                      _!equipment have been seized . <s>!_))
+                  (Joint[N][N]
+                    _!More than 300 planes and helicopters have been impounded at airports , <s>!_
+                    _!and a large number of vehicles and launches has been confiscated . <s>!_))))
+            (Elaboration[N][S]
+              _!The military has also captured enormous arsenals of powerful and sophisticated weapons , explosives and other war-like materiel . <s>!_
+              (Joint[N][N]
+                _!Much has been accomplished <s>!_
+                (same-unit[N][N]
+                  _!and public opinion!_
+                  _!decisively supports the government and the army <s>!_))))
+          (same-unit[N][N]
+            _!--!_
+            _!but , on the other hand , none of the key drug barons have been captured . <s>!_))
+        (Elaboration[N][S]
+          (Evaluation[N][S]
+            _!There has been a lot of talk <s>!_
+            _!that a large portion of the Colombian economy is sustained by the laundering of drug money . <s>!_)
+          (Elaboration[N][S]
+            (same-unit[N][N]
+              _!In my opinion ,!_
+              _!this is not true . <s>!_)
+            (Elaboration[N][S]
+              (Elaboration[N][S]
+                _!Laundered drug money has served only to increase , unrealistically , the price of real estate , <s>!_
+                _!creating serious problems for low-income people <s>!_)
+              _!who aspire to own their own homes . <s>!_))))
+      (Elaboration[N][S]
+        (Contrast[N][N]
+          (Evaluation[N][S]
+            (Enablement[N][S]
+              _!Drug money has also gone <s>!_
+              _!to buy expensive cars , airplanes , launches and nightclubs <s>!_)
+            _!where drugs are consumed . <s>!_)
+          (Elaboration[N][S]
+            (Elaboration[N][S]
+              _!But most of the drug money is kept in investments and in financial institutions outside Colombia . <s>!_
+              _!In fact , the cooperation of those financial institutions is essential to the success of the drug battle . <s>!_)
+            _!What is of much more importance to the Colombian economy than the supposed benefits of laundered drug money is higher prices for Colombia 's legitimate products . <s>!_))
+        (Temporal[N][N]
+          _!The price of coffee has gone down almost 45 % since the beginning of the year , to the lowest level <s>!_
+          _!( after inflation ) <s>!_)))
+    (Elaboration[N][S]
+      (Elaboration[N][S]
+        (Elaboration[N][S]
+          (Elaboration[N][S]
+            (Elaboration[N][S]
+              (Elaboration[N][S]
+                _!since the Great Depression . <s>!_
+                _!Market conditions point to even lower prices next year . <s>!_)
+              (Cause[N][S]
+                _!The 27-year-old coffee cartel had to be formally dissolved this summer . <s>!_
+                _!As a result , Colombia will earn $ 500 million less from its coffee this year than last . <s>!_))
+            (Evaluation[N][S]
+              _!Our coffee growers face reductions in their income , <s>!_
+              _!and this tempts them to contemplate substituting coca crops for coffee . <s>!_))
+          _!U.S. interests occasionally try to impose barriers to the import of another important Colombian export <s>!_)
+        (Evaluation[N][S]
+          _!-- cut flowers -- <s>!_
+          (Elaboration[N][S]
+            _!into the American market . <s>!_
+            (Elaboration[N][S]
+              (Elaboration[N][S]
+                _!A just price and an open market <s>!_
+                _!for what Colombian produces and exports <s>!_)
+              _!should be the policy of the U.S. <s>!_))))
+      (Elaboration[N][S]
+        (Elaboration[N][S]
+          _!I take advantage of this opportunity <s>!_
+          (Elaboration[N][S]
+            (Elaboration[N][S]
+              (Enablement[N][S]
+                (Elaboration[N][S]
+                  _!given to me by The Wall Street Journal <s>!_
+                  _!to make a plea to the millions of readers of this newspaper , <s>!_)
+                _!to become soldiers <s>!_)
+              _!dedicated to the fight against the use of drugs . <s>!_)
+            (Elaboration[N][S]
+              (Elaboration[N][S]
+                (Elaboration[N][S]
+                  (same-unit[N][N]
+                    _!Each gram of cocaine!_
+                    _!consumed is a deadly bullet against those in our country and in the rest of the world <s>!_)
+                  _!who fight this terrible scourge . <s>!_)
+                _!A crusade of NO to the consumption of drugs is imperative . <s>!_)
+              _!Mr. Cano is president of El Espectador , a newspaper <s>!_)))
+        _!founded by <s>!_))))

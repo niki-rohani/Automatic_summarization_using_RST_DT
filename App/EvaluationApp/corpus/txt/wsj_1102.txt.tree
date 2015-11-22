@@ -1,0 +1,135 @@
+(Topic-Change[N][N]
+  (Topic-Change[N][N]
+    (Temporal[N][N]
+      (Explanation[N][S]
+        (Temporal[N][N]
+          _!The dollar finished lower yesterday , <s>!_
+          _!after tracking another rollercoaster session on Wall Street . <s>!_)
+        _!Concern about the volatile U.S. stock market had faded in recent sessions , <s>!_)
+      (Contrast[N][N]
+        (Explanation[N][S]
+          _!and traders appeared content to let the dollar languish in a narrow range until tomorrow , <s>!_
+          _!when the preliminary report on third-quarter U.S. gross national product is released . <s>!_)
+        (Elaboration[N][S]
+          _!But seesaw gyrations in the Dow Jones Industrial Average yesterday put Wall Street back in the spotlight <s>!_
+          _!and inspired market participants to bid the U.S. unit lower . <s>!_)))
+    (Temporal[N][N]
+      (Temporal[N][N]
+        (Cause[S][N]
+          (Cause[S][N]
+            (textual-organization[N][N]
+              (Enablement[N][S]
+                _!UAL 's decision <s>!_
+                _!to remain an independent company <s>!_)
+              _!sent share prices tumbling . <s>!_)
+            _!By midmorning , the DJIA had plunged 80 points <s>!_)
+          _!and foreign-exchange dealers quickly drove the dollar down . <s>!_)
+        (Explanation[N][S]
+          _!When the DJIA modestly rebounded , <s>!_
+          (Contrast[S][N]
+            _!the dollar bounced back in choppy dealings <s>!_
+            _!but ended the day below the levels of late Monday . <s>!_)))
+      (Joint[N][N]
+        (Elaboration[N][S]
+          _!Stock prices , meanwhile , posted significant gains in later trading <s>!_
+          _!and closed down by only 3.69 points on the day . <s>!_)
+        _!Some dealers said <s>!_)))
+  (Topic-Change[N][N]
+    (Explanation[N][S]
+      (Explanation[N][S]
+        _!that the market 's strong reaction to Wall Street reflects a general uneasiness about the dollar . <s>!_
+        _!They added <s>!_)
+      (Explanation[N][S]
+        (Evaluation[N][S]
+          (Explanation[N][S]
+            _!that the DJIA 's swift drop proved an easy excuse for the market <s>!_
+            _!to drive the U.S. currency in the direction <s>!_)
+          _!it was already headed . <s>!_)
+        (Joint[N][N]
+          (Joint[N][N]
+            _!In late New York trading yesterday , the dollar was quoted at 1.8355 marks , down from 1.8470 marks Monday ,!_
+            _!and at 141.45 yen , down from 141.90 yen late Monday . <s>!_)
+          (Elaboration[N][S]
+            _!Sterling was quoted at $ 1.6055 , up from $ 1.6030 late Monday . <s>!_
+            _!In Tokyo Wednesday , the U.S. currency opened for trading at 141.57 yen , down from Tuesday 's Tokyo close of 142.10 yen . <s>!_))))
+    (Elaboration[N][S]
+      (Evaluation[N][S]
+        (Elaboration[N][S]
+          (Elaboration[N][S]
+            (Elaboration[N][S]
+              (Elaboration[N][S]
+                (Elaboration[N][S]
+                  (Elaboration[N][S]
+                    (Elaboration[N][S]
+                      (Elaboration[N][S]
+                        (Elaboration[N][S]
+                          _!Tom Trettien , a vice president with Banque Paribas in New York , sees a break in the dollar 's long-term upward trend , a trend <s>!_
+                          _!that began in January 1988 . <s>!_)
+                        _!He argues <s>!_)
+                      _!that the dollar is now " moving sideways , " <s>!_)
+                    _!adding <s>!_)
+                  _!that " the next leg could be the beginning of a longer term bearish phase . " <s>!_)
+                _!Analysts peg the dollar 's recent weakness to an underlying slowdown in the U.S. economy , <s>!_)
+              _!highlighted by recent economic data , particularly a surprisingly sharp widening in the August U.S. trade gap . <s>!_)
+            (Elaboration[N][S]
+              _!They also point out <s>!_
+              (Joint[N][N]
+                _!that narrowing interest-rate differentials between the U.S.!_
+                _!and its major trading partners tend to make the U.S. currency less attractive to foreign investors . <s>!_)))
+          (Evaluation[N][S]
+            (Evaluation[N][S]
+              (Evaluation[N][S]
+                _!Despite several spurts of dollar trading , <s>!_
+                _!it was noted that mark-yen cross trade grabbed much of the market 's attention . <s>!_)
+              _!Following the dive in U.S. stocks , <s>!_)
+            (Elaboration[N][S]
+              _!the mark has strengthened more than its major counterparts . <s>!_
+              (Joint[N][N]
+                _!Traders attribute the mark 's surge to a robust West German economy!_
+                _!and higher rate differentials . <s>!_))))
+        (Evaluation[N][S]
+          (Explanation[N][S]
+            (same-unit[N][N] _!But ,!_ _!they add <s>!_)
+            _!that the mark 's strength is in part a reflection of a shift away from U.S. assets by Japanese investors into West German investments . <s>!_)
+          (Elaboration[N][S]
+            _!" The question remains : <s>!_
+            (Explanation[N][S]
+              _!how much can the West German market absorb ? " <s>!_
+              _!says one senior dealer . <s>!_))))
+      (Elaboration[N][S]
+        (Elaboration[N][S]
+          (Elaboration[N][S]
+            (Elaboration[N][S]
+              (Attribution[S][N]
+                _!Some dealers say <s>!_
+                _!that Bank of Japan Governor Satoshi Sumita 's reassurance <s>!_)
+              _!that Japanese monetary policy wo n't be changed for the time being <s>!_)
+            (Enablement[N][S]
+              _!has given investors an added excuse <s>!_
+              _!to push the yen down even further against the mark . <s>!_))
+          (Elaboration[N][S]
+            _!Despite the yen 's weakness with respect to the mark , <s>!_
+            (Attribution[S][N]
+              _!Tokyo traders say <s>!_
+              (Explanation[N][S]
+                (Enablement[N][S]
+                  _!they do n't expect the Bank of Japan!_
+                  _!to take any action <s>!_)
+                _!to support the Japanese currency on that front . <s>!_))))
+        (Contrast[S][N]
+          (Elaboration[N][S]
+            (Summary[N][S]
+              _!Meanwhile , sterling slumped on news <s>!_
+              _!that the United Kingdom posted a wider-than-expected trade deficit in September . <s>!_)
+            _!The news also knocked the British unit to below 2.95 marks in London , <s>!_)
+          (Elaboration[N][S]
+            _!but a bout of short-covering helped sterling recoup some of its earlier losses . <s>!_
+            (Elaboration[N][S]
+              (Elaboration[N][S]
+                (Elaboration[N][S]
+                  (Attribution[S][N]
+                    _!On the Commodity Exchange in New York , gold for current delivery jumped!_
+                    _!$ 3.20 to $ 370.20 an ounce . <s>!_)
+                  _!The close was the highest since Aug. 15 . <s>!_)
+                _!Estimated volume was a light two million ounces . <s>!_)
+              _!In early trading in Hong Kong Wednesday , gold was quoted at $ 368.25 an ounce . <s>!_)))))))
